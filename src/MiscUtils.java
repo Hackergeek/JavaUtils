@@ -99,6 +99,6 @@ public class MiscUtils {
     }
 
     public static void main(String[] args) throws Exception {
-        generateSoftwareInfo("本系统已经安装的软件列表");
+        generateSoftwareInfo("本系统已经安装的软件列表.txt");
     }
 }

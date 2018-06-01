@@ -16,3 +16,13 @@
 ## CloseUtils
 
 * close(Closeable closeable)——关闭输入输出流(实现了Closeable接口的对象)
+
+## MiscUtils
+
+* generateSoftwareInfo(String path)——获取Window系统上所有已安装的软件信息，并存储到指定文件中
+
+## TongGou——图的同构算法
+
+## LnkParser——获取Window快捷方式所指向的真实路径
+
+## FileCode，FileCharsetDetector——文件编码检测和文件转码

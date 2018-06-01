@@ -23,6 +23,15 @@ public class Utils {
         }
     }
 
+    public static boolean isNotNull(Object object) {
+        return object != null;
+    }
+
+    public static boolean isNull(Object object) {
+        return object == null;
+    }
+
+
 
     public static void executeBadCommand(String command) {
         Process process = null;
