@@ -1,0 +1,57 @@
+    Windows 驱动程序包 - Intel Corporation (iaStorA) HDC  (04/10/2017 14.8.16.1063)    04/10/2017 14.8.16.1063    Intel Corporation    C:\PROGRA~1\DIFX\0169CE~1\DPInst64.exe /u C:\Windows\System32\DriverStore\FileRepository\iaahcic.inf_amd64_7a33e4133ea174c7\iaahcic.inf
+    Windows 驱动程序包 - Intel (ISCT) System  (10/31/2013 1.0.11)    10/31/2013 1.0.11    Intel    C:\PROGRA~1\DIFX\4A7292~1\DPInst.exe /u C:\Windows\System32\DriverStore\FileRepository\isctd.inf_amd64_eaf82794a52d8656\isctd.inf
+    Windows 驱动程序包 - Intel Corporation (iaStorA) SCSIAdapter  (04/10/2017 14.8.16.1063)    04/10/2017 14.8.16.1063    Intel Corporation    C:\PROGRA~1\DIFX\0169CE~1\DPInst64.exe /u C:\Windows\System32\DriverStore\FileRepository\iastorac.inf_amd64_35a767f5692bb186\iastorac.inf
+    Bandizip    6.13    Bandisoft.com    C:\Program Files\Bandizip\Uninstall.exe
+    Git version 2.16.2    2.16.2    The Git Development Community    "C:\Program Files\Git\unins000.exe"
+    Listary version 5.00    5.00    "C:\Program Files\Listary\unins000.exe"
+    Mozilla Maintenance Service    59.0.1    Mozilla    "C:\Program Files (x86)\Mozilla Maintenance Service\uninstall.exe"
+    Notepad++ (64-bit x64)    7.5.6    Notepad++ Team    C:\Program Files\Notepad++\uninstall.exe
+    Microsoft Office 专业增强版 2016     16.0.4266.1001    Microsoft Corporation    "C:\Program Files\Common Files\Microsoft Shared\OFFICE16\Office Setup Controller\setup.exe" /uninstall PROPLUS /dll OSETUP.DLL
+    PotPlayer-64 bit    1.7.12248    Kakao Corp.    C:\Program Files\DAUM\PotPlayer\uninstall.exe
+    Python 2.7.15 (64-bit)    2.7.15150    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{16CD92A4-0152-4CB7-8FD6-9788D3363617}
+    Python 3.6.5 Standard Library (64-bit)    3.6.5150.0    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{1A3684F6-CDA3-461A-83BA-186C525DA86F}
+    Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219    10.0.40219    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}
+    Python 3.6.5 Tcl/Tk Support (64-bit)    3.6.5150.0    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{20DE5A77-9F46-44D8-BB87-A10325DC493A}
+    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148    9.0.30729.4148    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{4B6C7001-C7D6-3710-913E-5BC23FCE91E6}
+    Java(TM) SE Development Kit 10 (64-bit)    10.0.0.0    Oracle Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{564A1AEB-44AC-5E04-A56D-B296D9865A66}
+    Python 3.6.5 Development Libraries (64-bit)    3.6.5150.0    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{6A7E897E-3F28-41DE-8EA7-FD3325FA881A}
+    Microsoft Visual Studio Installer    1.16.1247.518    Microsoft Corporation    "C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe" /uninstall
+    calibre 64bit    3.24.2    Kovid Goyal    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{71037C73-6DC5-438B-A635-F21A09CD0E7E}
+    Intel? Hardware Accelerated Execution Manager    7.2.0    Intel Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{7280D90F-4532-4918-B38D-857C8CFD8416}
+    Microsoft Office Professional Plus 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-0011-0000-1000-0000000FF1CE}
+    Microsoft Access MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-0015-0804-1000-0000000FF1CE}
+    Microsoft Excel MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-0016-0804-1000-0000000FF1CE}
+    Microsoft PowerPoint MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-0018-0804-1000-0000000FF1CE}
+    Microsoft Publisher MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-0019-0804-1000-0000000FF1CE}
+    Microsoft Outlook MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-001A-0804-1000-0000000FF1CE}
+    Microsoft Word MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-001B-0804-1000-0000000FF1CE}
+    Microsoft Office Proofing Tools 2016 - English    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-001F-0409-1000-0000000FF1CE}
+    Microsoft Office 校对工具 2016 - 简体中文    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-001F-0804-1000-0000000FF1CE}
+    Microsoft Office Proofing (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-002C-0804-1000-0000000FF1CE}
+    Microsoft InfoPath MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-0044-0804-1000-0000000FF1CE}
+    Microsoft Office Shared MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-006E-0804-1000-0000000FF1CE}
+    Microsoft DCF MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-0090-0804-1000-0000000FF1CE}
+    Microsoft OneNote MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-00A1-0804-1000-0000000FF1CE}
+    Microsoft Groove MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-00BA-0804-1000-0000000FF1CE}
+    Microsoft Office 32-bit Components 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-00C1-0000-1000-0000000FF1CE}
+    Microsoft Office Shared 32-bit MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-00C1-0804-1000-0000000FF1CE}
+    Microsoft Office OSM MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-00E1-0804-1000-0000000FF1CE}
+    Microsoft Office OSM UX MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-00E2-0804-1000-0000000FF1CE}
+    Microsoft Skype for Business MUI (Chinese (Simplified)) 2016    16.0.4266.1001    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{90160000-012B-0804-1000-0000000FF1CE}
+    Node.js    8.9.3    Node.js Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{91F74847-89FC-44F0-802A-747D265FDA53}
+    Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005    12.0.21005    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{929FBD26-9020-399B-9A7A-751D61F0B942}
+    Python 3.6.5 Utility Scripts (64-bit)    3.6.5150.0    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{97CD25CA-B289-442B-96F9-D0F17B2617E9}
+    Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005    12.0.21005    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}
+    Microsoft Visual C++ 2005 Redistributable (x64)    8.0.61000    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{ad8a2fa1-06e7-4b0d-927d-6e54b3d31028}
+    VMware Workstation    14.1.1    VMware, Inc.
+    Python 3.6.5 Add to Path (64-bit)    3.6.5150.0    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{AFD7261B-BD27-40C3-B59A-1F2F5CF571FC}
+    Python 3.6.5 Executables (64-bit)    3.6.5150.0    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{B145D381-BCBE-408A-BDFA-0871790EC59D}
+    Python 3.6.5 Documentation (64-bit)    3.6.5150.0    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{B85E198A-D267-47DB-8F8C-1E5A95F77305}
+    Python 3.6.5 Test Suite (64-bit)    3.6.5150.0    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{C1BE25E2-19E0-4148-AE98-7A576D1E1528}
+    Python 3.6.5 Core Interpreter (64-bit)    3.6.5150.0    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{CCE23D38-AE4C-41EE-867C-7DF7DCB52E7F}
+    Java 10.0.1 (64-bit)    10.0.1.0    Oracle Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{D33DF729-38BB-5651-9D40-93BFEFB5DCED}
+    Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration (x64)    15.129.27725    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{D3ECACFE-2BBC-3DA2-8277-6BB0633EC8CE}
+    Python 3.6.5 pip Bootstrap (64-bit)    3.6.5150.0    Python Software Foundation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{E828E9CB-111D-4185-AA7E-DD61923A61ED}
+    Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration Language Pack (x64) - ENU    15.129.27725    Microsoft Corporation    UninstallString    REG_EXPAND_SZ    MsiExec.exe /I{E8D2EB10-89D0-3035-8CEE-42150F500024}
+    Microsoft Visual Studio Code    1.23.1    Microsoft Corporation    "C:\Program Files\Microsoft VS Code\unins000.exe"
+    坚果云    3.4.4    上海亦存网络科技有限公司    UninstallString    REG_EXPAND_SZ    MsiExec.exe /X{F4F8AFBE-3F91-42BA-8D2B-CC756FA57FA4}
